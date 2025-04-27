@@ -1,0 +1,50 @@
+# Бинарные файлы
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Временные файлы
+*.tmp
+*.temp
+*.swp
+*~
+
+# IDE и редакторы
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+
+# Зависимости
+vendor/
+node_modules/
+
+# Логи
+*.log
+logs/
+
+# Файлы окружения
+.env
+.env.local
+.env.*.local
+
+# Файлы сборки
+bin/
+dist/
+build/
+
+# Кэш
+.cache/
+__pycache__/
+*.pyc
+
+# Системные файлы
+.DS_Store
+Thumbs.db 
